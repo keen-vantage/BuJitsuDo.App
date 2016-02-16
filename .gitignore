@@ -1,0 +1,8 @@
+example
+/www/tests/*
+bujitsudo/bower_components/
+bujitsudo/node_modules/
+bujitsudo/dist/
+bujitsudo/tmp/
+node_modules/
+platforms/
